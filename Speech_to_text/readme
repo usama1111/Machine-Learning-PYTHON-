@@ -1,0 +1,7 @@
+Install speech recognition
+(pip install speechrecognition)
+
+install pyaudio
+(conda install pyaudio) conda for jupyter notebook
+
+
